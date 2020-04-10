@@ -1,1 +1,1 @@
-inst_num=10
+inst_num=9
