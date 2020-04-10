@@ -1,1 +1,1 @@
-inst_num=9
+inst_num=1
